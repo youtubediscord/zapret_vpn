@@ -1,4 +1,4 @@
-Мы запускаем наш собственный проект Zapret VPN (под управлением Windows). 
+![image](https://github.com/user-attachments/assets/1cf0718a-95bf-41df-aa8a-20e4ca586ffc)Мы запускаем наш собственный проект Zapret VPN (под управлением Windows). 
 
 ## 1. Что это такое?
 Данная программа имеет ряд преимуществ:
@@ -31,7 +31,7 @@
 
 Выберите режим `Proxy`:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1449196e-3479-47f5-905d-fd2710b74dca)
 
 Сохраните изменения:
 
