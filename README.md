@@ -33,8 +33,4 @@
 
 ![image](https://github.com/user-attachments/assets/1449196e-3479-47f5-905d-fd2710b74dca)
 
-Сохраните изменения:
-
-![image](https://github.com/user-attachments/assets/516ff29b-842c-4ebc-8403-12a83ce7d7ab)
-
-Выйдите из настроек. Теперь Вам следует выбрать режим `auto switch`, нажав по иконке расширения (после успешного выбора он загорится синим):
+Если нужно выйти из режима `Proxy` выберите `Direct`
