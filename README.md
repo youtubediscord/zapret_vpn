@@ -25,7 +25,7 @@
 
 ![image](https://github.com/user-attachments/assets/130ae337-7c04-4dc0-a154-7011a414e77d)
 
-Введите заданный прокси (`127.0.0.1` и порт `8830`) (_тип оставьте `HTTP`_):
+Введите заданный прокси (`127.0.0.1` и порт `18080`) (_тип оставьте `HTTP`_):
 
 ![image](https://github.com/user-attachments/assets/82e98b91-2f7a-4ce8-9db0-44f6ccef9a50)
 
