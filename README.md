@@ -10,11 +10,7 @@
 
 ## 2. Установка программы
 ### 2.1. Скачайте и запустите RoskomFree
-Скачать по ссылке: [пока недоступно]
-<br>
-Для запуска окна консоли и отладки запустите - `start.bat`
-<br>
-Для запуска в фоне запустите - `пока недоступно`
+Скачать по ссылке: https://t.me/bypassblock/427
 
 ### 2.2. Установите расширение ZeroProxy
 - Для Chrome https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped
