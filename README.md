@@ -86,6 +86,7 @@ news.google.com +proxy
 * +direct
 ```
 
+Добавьте другие сайты, кото
 Сохраните изменения:
 
 ![image](https://github.com/user-attachments/assets/516ff29b-842c-4ebc-8403-12a83ce7d7ab)
