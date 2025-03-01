@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1cf0718a-95bf-41df-aa8a-20e4ca586ffc)Мы запускаем наш собственный проект Zapret VPN (под управлением Windows). 
+## Zapret VPN (_под управлением Windows 8+_). 
 
 ## 1. Что это такое?
 Данная программа имеет ряд преимуществ:
