@@ -29,64 +29,10 @@
 
 ![image](https://github.com/user-attachments/assets/82e98b91-2f7a-4ce8-9db0-44f6ccef9a50)
 
-Перейдите во вкладку `auto switch`:
+Выберите режим `Proxy`:
 
-![image](https://github.com/user-attachments/assets/4c65a761-0c8e-422a-91b7-5d5192d21fca)
+![Uploading image.png…]()
 
-Нажмите `Edit source code`
-
-![image](https://github.com/user-attachments/assets/f0559845-4d10-45c2-941a-33ad8d93f4ce)
-
-```python
-[SwitchyOmega Conditions]
-@with result
-
-*.instagram.com +proxy
-scontent-hel3-1.cdninstagram.com +proxy
-*.cdninstagram.com +proxy
-*.ntc.party +proxy
-*.youtube.com +proxy
-*.googlevideo.com +proxy
-play.google.com +proxy
-yt3.ggpht.com +proxy
-youtu.be +proxy
-*.discord.com +proxy
-*.discord.gg +proxy
-*.discordapp.com +proxy
-*.discordapp.net +proxy
-*.discord.media +proxy
-*.discord-attachments-uploads-prd.storage.googleapis.com +proxy
-*.dis.gd +proxy
-*.discord.co +proxy
-*.discordcdn.com +proxy
-*.discordstatus.com +proxy
-bbc.com +proxy
-*.proton.me +proxy
-twitter.com +proxy
-*.twimg.com +proxy
-t.co +proxy
-x.com +proxy
-*.torproject.org +proxy
-*.rutracker.org +proxy 
-*.rutracker.cc +proxy
-*.archive.org +proxy
-*.web.archive.org +proxy
-*.soundcloud.com +proxy
-*.mullvad.net +proxy
-*.nnmclub.to +proxy
-*.roskomsvoboda.org +proxy
-holod.media +proxy
-news.google.com +proxy
-*.medium.com +proxy
-*.habr.com +proxy
-*.hybrid-analysis.com +proxy
-*.4pda.to +proxy
-*.chatgpt.com +proxy
-
-* +direct
-```
-
-Добавьте другие сайты, кото
 Сохраните изменения:
 
 ![image](https://github.com/user-attachments/assets/516ff29b-842c-4ebc-8403-12a83ce7d7ab)
